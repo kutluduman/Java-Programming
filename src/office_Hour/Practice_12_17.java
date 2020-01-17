@@ -4,7 +4,7 @@ public class Practice_12_17 {
 
     public static void main(String[] args) {
 
-    // data types : primitive - non-primitive
+        // data types : primitive - non-primitive
 
         // primitive = byte short float char int boolean double long
         // non primitive = scanner String Array
@@ -21,7 +21,7 @@ public class Practice_12_17 {
 
         System.out.println(number); // 6 because we defined or stored as variable in the memory already
 
-        System.out.println(number+6);
+        System.out.println(number + 6);
 
 
         // in order to see how many chars we have in a variable
@@ -29,7 +29,7 @@ public class Practice_12_17 {
         System.out.println(word.length()); // () this shows that this is a method //8
 
 
-        String book = "learn java in 1 day, java is fun" ;
+        String book = "learn java in 1 day, java is fun";
 
         System.out.println("first index of j" + book.indexOf("j"));
         System.out.println("last index of j" + book.lastIndexOf("j"));
@@ -41,20 +41,6 @@ public class Practice_12_17 {
         String student = "Rabia";
 
         System.out.println(student.substring(2));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
