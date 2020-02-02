@@ -34,6 +34,18 @@ public class RecapConstructors {
      *
      * we use "this()" keyword to call the constructor in current class
      *
+     * Constructor call must be the first step in a constructor
+     *
+     * One constructor can only call one constructor(Cannot call more than 1 )
+     *
+     * A constructor cannot call itself - compiler will give error
+     *
+     * Constructor cannot contain itself
+     *
+     * We can give multiple parameters to constructor
+     *
+     *
+     *
      */
 
 

@@ -41,4 +41,19 @@ public class Movie {
                 ", genre='" + genre + '\'' +
                 '}';
     }
+
+
+    public double getLength(){
+
+        return length;
+
+
+    }
+
+    public String getGenre(){
+
+        return genre;
+
+
+    }
 }
