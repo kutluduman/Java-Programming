@@ -13,7 +13,8 @@ public class AnimalShow {
 
         a1.makeNoise();
 
-
+        Animal a2 = new Horse();
+        a2.makeNoise();
 
 
 
